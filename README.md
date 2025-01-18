@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Lnxy-0
+- ...You are looking at me, right?
+- I'm Lnxy-0.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lnxy-0)
 
